@@ -7,7 +7,7 @@ author: iamphduc
 ---
 
 ### Task
-Link: [https://overthewire.org/wargames/bandit/bandit1.html]()
+Link: [https://overthewire.org/wargames/bandit/bandit1.html](https://overthewire.org/wargames/bandit/bandit1.html)
 
 No further explanation since the task is already clear
 
