@@ -1,5 +1,5 @@
 ---
-title: OverTheWire - Bandit: Level 0 -> Level 1
+title: "OverTheWire - Bandit: Level 0 -> Level 1"
 date: 2025-08-31 10:25:00 +0700
 categories: [OverTheWire, Bandit]
 tags: [overthewire, bandit, linux]
@@ -7,7 +7,7 @@ author: iamphduc
 ---
 
 ### Task
-Link: [https://overthewire.org/wargames/bandit/bandit1.html](https://overthewire.org/wargames/bandit/bandit1.html)
+Link: [https://overthewire.org/wargames/bandit/bandit1.html]()
 
 No further explanation since the task is already clear
 
